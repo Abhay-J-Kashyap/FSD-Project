@@ -20,5 +20,5 @@ function loadLeaderboard() {
 // Load leaderboard when page is ready
 document.addEventListener("DOMContentLoaded", loadLeaderboard);
 document.getElementById("back-home").addEventListener("click", function() {
-window.location.href = "proj.html"; // Navigate to the homepage
+window.location.href = "index.html"; // Navigate to the homepage
 });
