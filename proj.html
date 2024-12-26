@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Typing Speed Tester</title>
+    <link rel="stylesheet" href="style (1).css">
+</head>
+<body>
+    <div class="container">
+        <h1>Typing Speed Tester</h1>
+        <div class="typing-area">
+            <p id="display-text">Press "Start" to begin!</p>
+            <div id="typing-input" contenteditable="true" tabindex="0"></div>
+            <p id="word-tracker"></p>
+        </div>
+        <button id="start-button">Start</button>
+        <a id="view-leaderboard" href="leaderboard.html">View Leaderboard</a>
+        <p id="result"></p>
+    </div>
+    <script src="script.js" type="module" ></script>
+</body>
+</html>
