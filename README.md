@@ -32,6 +32,10 @@ This project is a web-based application designed to test and measure a user's ty
 3.  **Populate Table:** It then iterates through the scores array and dynamically creates and inserts table rows (`<tr>`) into the `leaderboard-list` table body, displaying the rank, name, and WPM for each entry.
 4.  **Navigation:** A "Back to Typing Test" button allows the user to easily navigate back to `index.html`.
 
+## Screenshots
+![demo](./demo image.png)
+![leaderboard](./leaderboard.png)
+
 ## Technologies Used
 
 * **HTML5**
