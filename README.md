@@ -33,7 +33,7 @@ This project is a web-based application designed to test and measure a user's ty
 4.  **Navigation:** A "Back to Typing Test" button allows the user to easily navigate back to `index.html`.
 
 ## Screenshots
-![demo](./demo image.png)
+![demo](./demo.png)
 ![leaderboard](./leaderboard.png)
 
 ## Technologies Used
